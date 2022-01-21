@@ -9,6 +9,8 @@ To run each method, run the corresponding *.py file and pass the datafile as an 
 
 Note: Run from the directory where production_table is located
 
++ Functions within the scripts can be independently imported into python environments as well
+
 # Output
 The checksum value will be saved in a numpy file in the current directory. Two sample output files are provided using the included datafile 'production_table':
 
