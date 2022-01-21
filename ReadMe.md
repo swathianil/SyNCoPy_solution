@@ -9,17 +9,6 @@ To run each method, run the corresponding *.py file and pass the datafile as an 
 
 Note: Run from the directory where production_table is located
 
-Alternatively, the code can be run in a python environment by importing the module as follows:
-
-    from method1 import checksum_calc
-    checksum = checksum_calc('production_table')
-
-or
-    from method2 import checksum_calc
-    checksum = checksum_calc('production_table')
-
-The function returns the checksum value
-
 # Output
 The checksum value will be saved in a numpy file in the current directory. Two sample output files are provided using the included datafile 'production_table':
 
