@@ -28,4 +28,4 @@ production_table_checksum_m1.npy
 production_table_checksum_m2.npy
 
 # Test
-The methods_test.py file also include a test function for both solutions. A file 'test_data' has been included to support this functionality.
+The methods_test.py file include a test function for both solutions. A file 'test_data' has been included to support this functionality.
