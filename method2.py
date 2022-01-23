@@ -13,7 +13,7 @@ def data_wrangler(dirloc,filename):
 
 def checksum_calc(rawdata):
 
-    # Split odd bland even rows into two dataframes
+    # Split odd and even rows into two dataframes
     odd_r = rawdata.iloc[::2]
     even_r = rawdata.iloc[1::2]
     
