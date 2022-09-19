@@ -1,5 +1,6 @@
 # SyNCoPy_solution
 The current repository consists of two solutions to the SyNCoPy code challenge
+Challenge: "In each row, we look for the largest value and the smallest value. For even row numbers (2, 4, ...) we calculate their difference, for odd row numbers (1, 3, ...) we multiply them. We do that for all rows and add up all the results to arrive at our checksum."
 
 # Run
 To run each method, run the corresponding *.py file and pass the datafile as an argument:
